@@ -74,6 +74,13 @@ This confirms end-to-end automation without manual intervention.
 - Implement Infrastructure as Code using Terraform
 - Add cost monitoring and budget alerts
 
+## 🧠 Learning Takeaways
+
+- Difference between monitoring and remediation
+- Event-driven cloud design
+- IAM-based API access
+- Importance of logs over notifications
+
 ---
 
 ## 🧑‍💻 Author
